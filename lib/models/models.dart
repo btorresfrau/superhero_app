@@ -1,0 +1,1 @@
+export 'package:superhero_app/models/superhero_model.dart';
